@@ -1,2 +1,3 @@
-[[{"surname":"","rating":"5","category":"6"}],
-{"surname":"","rating":"8","category":"9"}]
+[{"surname":"Ivanov","rating":"5","category":"Matematic"},
+{"surname":"Petrova","rating":"4","category":"Informatic"},
+{"surname":"Krasnov","rating":"5","category":"Matematic"}]

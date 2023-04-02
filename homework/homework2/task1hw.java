@@ -43,7 +43,7 @@ public class task1hw {
 
     public static void returnWhere(){
         StringBuilder returnfile = returnFile();
-        // переводим наши данные из returnfile в тип string
+        // переводим наши данные из переменной returnfile в тип string
         String sf = returnfile.toString();
         String[] nfsa = sf.split("},");
         System.out.println("select * from students where: x == " + where);
